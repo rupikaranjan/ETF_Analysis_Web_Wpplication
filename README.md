@@ -86,8 +86,10 @@ Using SQL joins we combine all the data for each asset and build the entire ETF 
 
 Using the Voila library we deploy the notebook as a web application locally in our computer.
 
-Screen recording or screenshots of how the web application appears when using Voilà is included below:
+Screenshots of how the web application appears when using Voilà is included below:
 
-   ![webapp_recording.mov](Resources/Images/webapp_recording.mov)
+   ![webapp_ss1](Resources/Images/webapp_ss1.png)
    
    ![webapp_ss.png](Resources/Images/webapp_ss.png)
+   
+   ![webapp_ss2](Resources/Images/webapp_ss2.png)
